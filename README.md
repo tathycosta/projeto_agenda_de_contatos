@@ -32,7 +32,11 @@ Sair do Sistema:
 O programa é encerrado de forma segura, garantindo que nenhum dado seja perdido.
 
 Tecnologias e Técnicas Utilizadas
+
 Python: Linguagem principal para desenvolvimento do sistema.
+
 Regex: Validação do formato do telefone para garantir consistência.
+
 Ordenação Personalizada: Critério de ordenação por sobrenome, utilizando a função sorted() com uma chave personalizada.
+
 Manipulação de Listas e Dicionários: Armazenamento e gerenciamento dos contatos.
