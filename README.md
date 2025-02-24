@@ -1,5 +1,6 @@
 # projeto_agenda_de_contatos
 Objetivo do Projeto
+
 O objetivo principal era criar uma solução digital eficiente para substituir uma agenda de contatos em papel, facilitando a gestão de informações de clientes e fornecedores de uma pequena empresa. O sistema precisava ser intuitivo, organizado e seguro, garantindo a integridade dos dados e a praticidade no dia a dia dos usuários.
 
 Funcionalidades Implementadas
